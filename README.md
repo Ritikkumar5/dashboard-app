@@ -48,7 +48,7 @@ npm run dev
 ![Login](screenshots/login.png)  
 
 ### Dashboard  
-![Dashboard](https://github.com/Ritikkumar5/dashboard-app/blob/main/screenshots/dashboard.png?raw=true)  
+![image alt](https://github.com/Ritikkumar5/dashboard-app/blob/63c7bc7c1ac022b0130aa81f88865fa359399792/screenshots/dashboard.png)  
 
 ### Profile  
 ![Profile](screenshots/profile.png)  
