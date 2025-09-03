@@ -45,13 +45,13 @@ npm run dev
 ## 📸 Screenshots
 
 ### Login  
-![Login](./screenshots/login.png)  
+![Login](screenshots/login.png)  
 
 ### Dashboard  
-![Dashboard](https://github.com/Ritikkumar5/dashboard-app/blob/main/screenshots/dashboard.png?raw=true)  
+![Dashboard](screenshots/dashboard.png)  
 
 ### Profile  
-![Profile](./screenshots/profile.png)  
+![Profile](screenshots/profile.png)  
 
 ### Mobile Sidebar  
-![Mobile Sidebar](./screenshots/mobile-sidebar.png) 
+![Mobile Sidebar](screenshots/mobile-sidebar.png) 
