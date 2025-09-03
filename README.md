@@ -33,7 +33,7 @@ It includes **Login/Signup authentication**, a **Dashboard with charts & cards**
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/your-repo.git
+git clone repo link
 cd your-repo
 
 # Install dependencies
@@ -41,23 +41,5 @@ npm install
 
 # Run development server
 npm run dev
-
-## 📸 Screenshots
-
-### Login  
-![Login](![Login](https://github.com/Ritikkumar5/dashboard-app/raw/main/screenshots/login.png)
-)
-
-### Dashboard  
-![Dashboard](https://github.com/Ritikkumar5/dashboard-app/raw/main/screenshots/dashboard.png?raw=true)
-
-### Profile  
-![Profile](https://github.com/Ritikkumar5/dashboard-app/raw/main/screenshots/profile.png?raw=true)
-
-### Mobile Sidebar  
-![Mobile Sidebar](https://github.com/Ritikkumar5/dashboard-app/raw/main/screenshots/mobile-sidebar.png?raw=true)
-
-
-
 
 
