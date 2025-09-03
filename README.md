@@ -45,13 +45,18 @@ npm run dev
 ## 📸 Screenshots
 
 ### Login  
-![Login](screenshots/login.png)  
+![Login](https://github.com/Ritikkumar5/dashboard-app/blob/main/screenshots/login.png?raw=true)
 
 ### Dashboard  
-![image alt](https://github.com/Ritikkumar5/dashboard-app/blob/63c7bc7c1ac022b0130aa81f88865fa359399792/screenshots/dashboard.png)  
+![Dashboard](https://github.com/Ritikkumar5/dashboard-app/blob/main/screenshots/dashboard.png?raw=true)
 
 ### Profile  
-![Profile](screenshots/profile.png)  
+![Profile](https://github.com/Ritikkumar5/dashboard-app/blob/main/screenshots/profile.png?raw=true)
 
 ### Mobile Sidebar  
-![Mobile Sidebar](screenshots/mobile-sidebar.png) 
+![Mobile Sidebar](https://github.com/Ritikkumar5/dashboard-app/blob/main/screenshots/mobile-sidebar.png?raw=true)
+
+
+
+
+
